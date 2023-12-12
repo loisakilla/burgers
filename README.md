@@ -7,7 +7,8 @@ This project was created during the intensive. The main purpose of this intensiv
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40" alt="CSS"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" width="40" height="40" alt="Angular"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" width="40" height="40" alt="Angular"/>&nbsp;
 </div>
 
-Link to the Deployment: https://loisakilla.github.io/burgers/
+
+### Link to the Deployment: https://loisakilla.github.io/burgers/
