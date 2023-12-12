@@ -1,6 +1,7 @@
 ### BurgerHouse Website
 
 This project was created during the intensive. The main purpose of this intensive was to feel technologies like:
+   
     - HTML
     - CSS
     - JS
